@@ -62,5 +62,13 @@ namespace Pract1_2._0
             zn3.Clear();
             zn4.Clear();
         }
+        private void Button3_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+        private void Button4_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Бла-Бла-Бал-Бла-Бла-Бла-Бал-Бла-Бла-Бла-Бал-Бла-Бла-Бла-Бал-Бла-Бла-Бла-Бал-Бла-Бла-Бла-Бал-Бла-Бла-Бла-Бал-Бла");
+        }
     }
 }
